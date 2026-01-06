@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---  
-![Tecnomeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnomeida&show_icons=true&theme=radical)
-
+![Tecnomeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnomeida&show_icons=true&theme=transparent)
